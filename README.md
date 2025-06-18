@@ -13,3 +13,6 @@ npm run dev
 
 ## Open the port:
 Usually will be the port http://localhost:5173/
+
+## To see the page.
+You can do the previous steps I told you or see a preview in the link: https://monics-hub.github.io/react-calculator/
